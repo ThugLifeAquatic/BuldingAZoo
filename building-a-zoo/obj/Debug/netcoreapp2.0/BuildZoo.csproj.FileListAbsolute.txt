@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\bin\Debug\netcoreapp2.0\BuildZoo.deps.json
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\bin\Debug\netcoreapp2.0\BuildZoo.runtimeconfig.json
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\bin\Debug\netcoreapp2.0\BuildZoo.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\bin\Debug\netcoreapp2.0\BuildZoo.dll
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\bin\Debug\netcoreapp2.0\BuildZoo.pdb
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\obj\Debug\netcoreapp2.0\BuildZoo.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\obj\Debug\netcoreapp2.0\BuildZoo.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\obj\Debug\netcoreapp2.0\BuildZoo.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\obj\Debug\netcoreapp2.0\BuildZoo.AssemblyInfo.cs
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\obj\Debug\netcoreapp2.0\BuildZoo.dll
+C:\Users\acohr\source\repos\BuldingAZoo\building-a-zoo\obj\Debug\netcoreapp2.0\BuildZoo.pdb
