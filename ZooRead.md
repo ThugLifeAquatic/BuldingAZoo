@@ -1,0 +1,8 @@
+- How long did it take you to complete this assignment?
+  -- About 3 hours.
+- What did you struggle with? Why? How did you solve?
+  -- Not a whole lot. It was pretty easy, just time consuming.  I had a small snafu with static methods, but i figured it out pretty quickly.
+- What did you learn during this assignment?
+  -- I learned How to set up a class heirarchy and run a multi-class program.
+- What resources did you utilize for this assingment?
+  -- Classmates, and provided documents in the class repo.
