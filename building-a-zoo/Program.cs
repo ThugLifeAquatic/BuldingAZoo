@@ -58,7 +58,7 @@ namespace BuildZoo
             }
             else if (input == "2")
             {
-                Mammal.Stare(species.Species);
+                species.Stare(species.Species);
                 Console.ReadLine();
                 MammalInteraction(species);
             }
@@ -89,7 +89,7 @@ namespace BuildZoo
             }
             else if (input == "2")
             {
-                Bird.Stare(species.Species);
+                species.Stare(species.Species);
                 Console.ReadLine();
                 BirdInteraction(species);
             }
@@ -118,7 +118,7 @@ namespace BuildZoo
             }
             else if (input == "2")
             {
-                Reptile.Stare(species.Species);
+                species.Stare(species.Species);
                 Console.ReadLine();
                 ReptileInteraction(species);
             }

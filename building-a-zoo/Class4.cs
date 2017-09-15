@@ -13,12 +13,12 @@ namespace BuildZoo
            CanFly  = true;
         }
 
-        public static void Sound(string species)
+        public void Sound(string species)
         {
             Console.WriteLine($"The {species} squawks, like, super loud.");
         }
 
-        public static void Stare(string species)
+        public void Stare(string species)
         {
             Console.WriteLine($"The {species} stares directly back at you, and lays an egg.");
         }

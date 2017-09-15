@@ -21,12 +21,12 @@ namespace BuildZoo
             IsDead = false;
         }
 
-        public static void Eats(string species)
+        public void Eats(string species)
         {
             Console.WriteLine($"The {species} eats.");
         }
 
-        public static void Sleeps(string species)
+        public void Sleeps(string species)
         {
             Console.WriteLine($"The {species} goes to sleep.");
         }

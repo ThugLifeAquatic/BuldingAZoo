@@ -13,12 +13,12 @@ namespace BuildZoo
             HasLegs = true;
         }
 
-        public static void Sound (string species)
+        public void Sound (string species)
         {
             Console.WriteLine($"The {species} hisses comfortingly.");
         }
 
-        public static void Stare(string species)
+        public void Stare(string species)
         {
             Console.WriteLine($"The {species} stares with its beady little eyes..");
         }
